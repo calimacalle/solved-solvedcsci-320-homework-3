@@ -1,0 +1,17 @@
+Download Link: https://assignmentchef.com/product/solved-solvedcsci-320-homework-3
+<br>
+We define here a programming language called C-Minus (or C—. for short), which is a suitable language for a compiler project, which is more complex than the TINY language in that it includes functions and arrays. It is essentially a subset of C, but is missing some important pieces, hence its name. This appendix consists of five sections. In the first we list the lexical conventions of the language. Including a description of the tokens of the language. In the second, we give a BNF description of each language construct, together with an English description of the associated semantics.
+
+In the third section, we give two sample programs in C—. In the fourth, we describe a Tiny Machine runtme environment for C—. The last section describes a number of programming projects using C – and TM, suitable for a compiler course.
+
+A.1 LEXICAL CONVENTIONS OF C—
+
+I . The ke voi’Is (I (he lanuige •ire I he fol h w i ng:
+
+else if mt return void while
+
+All Leywoids are iesered. tiid must he written in lowercase.
+
+2. .Speeial symh 1s are the following:
+
++ — * / &lt; &lt; i… = ; ( ) [ ] ( ) /* */ 3. Oilier tokens are ID and NUM. dcliiied by the íolk)wing regular expressions: ID – letter letter* NVM digit djgjt* l.tteraI..Iz[AI..IZ digit = OI..19 Lower- arid uppercase letters are distinct. -1. White %JCC consists of blanks. newlìnes. and labs. White space is ignored except that it must separate IDs. Nt4s. and keywords. 5. Comments are surrounded by the usual C notations / *• * . * /• Comments caii he placed anyhcre white space can appear (that is, comments cannot he placed within likens) and may include more than one line. Comments may hot he nested. Ai SYNTAX AND SEMANTICS OF C— A KNF grammar for C — is as follows: I. ¡)roç’ranl leckiruth;n-lixt 2. deCIcii(ltií ;,z-list — (kel€lrU1i)fl Ii.t ¿k(’l(IIÏItíOfl kLíilrUIU1l 3. declaration — ar-declaiaiioi Jun1’cIarci(iwi . 4. ‘ur-ae.’cIara (loll — iVJ)C—pCCtJk’r LV ; i iïN’-í’iie LL. L LVUL’i J 5. ¡ype-cpecijìer mt P void 6. fien _declaration 1vpe—s)eciìer ID ( ¡mrwns ) Co,flj)OU,ld—Vl’flI 7. params —. partan-lis! void 8. ¡iiïiiìt—iIst —‘ parain-!ivi , parain partan 9. paraiti — tvpe-cpecifier ID f ví;e-spe’citìer ID [ ] 10. (Ulll,)Illitt-SIfllt —‘ ( lv ti1de’. lariiioiis .IaU’iHeiIt- lis f ) IL. loca!-rleclaraiions — Iocc:l—Ieclaratio,zs var-declaruiii’,z I c,nplv 12. stuiement—lisi — viate,nent—list v(awinenf empty 13. statement epressit)n-%1mnt I cuntpound—stnit sek’crum-sinif I iferaiü’ii-s(mni m-etnrn—.st,nt 14. ¿ixfWSSù,fl_ NiDal — expression ; ; 15. seleciion-sant —* if ( evprcVsi’l ) slateflIelit if ( ei.precsu?n ) staienieni el se sicltcincm 16. ileralmon-sunI —. while ( expre.csion ) xta(e’mnenl 17. return-stint —+ return ; return ev,iressïoii ; 1. e.pres.ciomi —‘ c,r e,tprev clon imnple-e.ï;re v 19. ar —. ID ID [ ‘x,iressI.nr ] 20. .c,inpie-e.vpression czddiu’e -e.Vf)ri’sVlon reloj) (u/dull e -e.precxion I tultliiftc . (‘XflrLSSU)fl 21. relop—’ &lt; P &lt; I = I == ! 22. (uldune—(vpressu)Il — tI(l(hIii(’-CA/;ressu)il uddop term term 23. addop—. +1— …………………………………………………………. couldnt write the whole requirements. the assignment is complete anyway
